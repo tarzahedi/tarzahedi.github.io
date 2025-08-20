@@ -1,9 +1,3 @@
-# *
 User-agent: *
 Allow: /
-
-# Host
-Host: https://tarzahedi.github.io
-
-# Sitemaps
 Sitemap: https://tarzahedi.github.io/sitemap.xml

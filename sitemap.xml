@@ -1,8 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://tarzahedi.github.io</loc><lastmod>2024-11-18T20:40:58.037Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://tarzahedi.github.io/cv</loc><lastmod>2024-11-18T20:40:58.037Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://tarzahedi.github.io/myjourney</loc><lastmod>2024-11-18T20:40:58.037Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://tarzahedi.github.io/projects</loc><lastmod>2024-11-18T20:40:58.037Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://tarzahedi.github.io/projects/1</loc><lastmod>2024-11-18T20:40:58.037Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tarzahedi.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/breast-cancer-diagnosis/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/classifications/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/classifications/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/movie-recommendation-system/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/recommender/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/recommender/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/regression/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/regression/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/student-performance/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/matplotlib/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/matplotlib/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/numpy/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/numpy/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/pandas/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/pandas/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/recommendation-system/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/recommendation-system/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/scikit-learn/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/scikit-learn/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/seaborn/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/seaborn/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/streamlit/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/streamlit/page/1/</loc>
+    </url>
 </urlset>
