@@ -19,6 +19,15 @@
         <loc>https://tarzahedi.github.io/projects/classifications/page/1/</loc>
     </url>
     <url>
+        <loc>https://tarzahedi.github.io/projects/co2-emission-dashboard/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/dashboard/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/projects/dashboard/page/1/</loc>
+    </url>
+    <url>
         <loc>https://tarzahedi.github.io/projects/movie-recommendation-system/</loc>
     </url>
     <url>
@@ -40,6 +49,12 @@
         <loc>https://tarzahedi.github.io/skills/</loc>
     </url>
     <url>
+        <loc>https://tarzahedi.github.io/skills/dashboard/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/dashboard/page/1/</loc>
+    </url>
+    <url>
         <loc>https://tarzahedi.github.io/skills/matplotlib/</loc>
     </url>
     <url>
@@ -56,6 +71,18 @@
     </url>
     <url>
         <loc>https://tarzahedi.github.io/skills/pandas/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/plotly/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/plotly/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/prophet/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/prophet/page/1/</loc>
     </url>
     <url>
         <loc>https://tarzahedi.github.io/skills/recommendation-system/</loc>
@@ -80,5 +107,11 @@
     </url>
     <url>
         <loc>https://tarzahedi.github.io/skills/streamlit/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/time-series/</loc>
+    </url>
+    <url>
+        <loc>https://tarzahedi.github.io/skills/time-series/page/1/</loc>
     </url>
 </urlset>
